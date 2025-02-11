@@ -1,0 +1,39 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "fool"
+    },
+    "output": [
+      "idiot",
+      "jester",
+      "buffoon",
+      "simpleton",
+      "joker"
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "bourru"
+    },
+    "output": [
+      "renfrogné",
+      "revêche",
+      "maussade"
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "pazzesco"
+    },
+    "output": [
+      "incredibile",
+      "folle",
+      "strabiliante",
+      "fantastico",
+      "sbalorditivo"
+    ]
+  }
+]
