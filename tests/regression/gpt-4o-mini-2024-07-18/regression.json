@@ -1,0 +1,80 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "fool"
+    },
+    "output": [
+      "idiot",
+      "simpleton",
+      "dunce",
+      "naive person",
+      "clown"
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "bourru"
+    },
+    "output": [
+      "rude",
+      "grincheux",
+      "bourru",
+      "sévère",
+      "maussade"
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "pazzesco"
+    },
+    "output": [
+      "incredibile",
+      "straordinario",
+      "folle",
+      "assurdo",
+      "eccezionale"
+    ]
+  },
+  {
+    "input": {
+      "language": "english",
+      "message": "it is a tough call"
+    },
+    "output": [
+      "it's a difficult decision",
+      "it's a hard choice",
+      "it's a challenging judgment",
+      "it's a tricky situation",
+      "it's not an easy determination"
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "il ne faut pas pousser mémé dans les orties"
+    },
+    "output": [
+      "Il ne faut pas exagérer",
+      "Ne vas pas trop loin",
+      "Ne pousse pas le bouchon trop loin",
+      "Il ne faut pas provoquer des problèmes inutiles",
+      "Reste dans les limites"
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "non rompere le balle"
+    },
+    "output": [
+      "non essere fastidioso",
+      "non disturbare",
+      "non creare problemi",
+      "lascia stare",
+      "non scocciare"
+    ]
+  }
+]

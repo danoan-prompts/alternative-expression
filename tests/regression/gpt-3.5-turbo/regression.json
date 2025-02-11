@@ -1,0 +1,77 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "fool"
+    },
+    "output": [
+      "silly person",
+      "jester",
+      "imbecile",
+      "joker",
+      "buffoon"
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "bourru"
+    },
+    "output": [
+      "rude",
+      "brusque",
+      "hargneux"
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "pazzesco"
+    },
+    "output": [
+      "incredibile",
+      "folle",
+      "mostruoso",
+      "fuori di testa",
+      "strabiliante"
+    ]
+  },
+  {
+    "input": {
+      "language": "english",
+      "message": "it is a tough call"
+    },
+    "output": [
+      "it is a difficult decision",
+      "it is a challenging choice",
+      "it is a hard decision",
+      "it is a tricky decision",
+      "it is a demanding choice"
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "il ne faut pas pousser mémé dans les orties"
+    },
+    "output": [
+      "Il ne faut pas exagérer",
+      "Ne vas pas trop loin",
+      "Ne pousse pas le bouchon trop loin",
+      "Ne vas pas trop loin"
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "non rompere le balle"
+    },
+    "output": [
+      "non essere noioso",
+      "non essere fastidioso",
+      "non essere irritante",
+      "non essere seccante",
+      "non essere tediante"
+    ]
+  }
+]
