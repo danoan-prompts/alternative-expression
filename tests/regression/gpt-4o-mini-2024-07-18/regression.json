@@ -2,79 +2,85 @@
   {
     "input": {
       "language": "english",
+      "style": "sport commentator",
       "message": "fool"
     },
     "output": [
-      "idiot",
       "simpleton",
-      "dunce",
-      "naive person",
-      "clown"
+      "clown",
+      "nincompoop",
+      "buffoon",
+      "dunce"
     ]
   },
   {
     "input": {
       "language": "french",
+      "style": "respected intelectual",
       "message": "bourru"
     },
     "output": [
-      "rude",
+      "difficulté d'approche",
+      "rugueux",
       "grincheux",
-      "bourru",
-      "sévère",
-      "maussade"
+      "hargneux",
+      "méfiant"
     ]
   },
   {
     "input": {
       "language": "italian",
+      "style": "teenager fan of rap",
       "message": "pazzesco"
     },
     "output": [
       "incredibile",
+      "fuori di testa",
       "straordinario",
-      "folle",
-      "assurdo",
-      "eccezionale"
+      "spettacolare",
+      "epico"
     ]
   },
   {
     "input": {
       "language": "english",
+      "style": "same",
       "message": "it is a tough call"
     },
     "output": [
       "it's a difficult decision",
       "it's a hard choice",
-      "it's a challenging judgment",
-      "it's a tricky situation",
-      "it's not an easy determination"
+      "it's a challenging determination",
+      "it's a complex judgment",
+      "it's a tricky situation"
     ]
   },
   {
     "input": {
       "language": "french",
+      "style": "computer science metaphor",
       "message": "il ne faut pas pousser mémé dans les orties"
     },
     "output": [
-      "Il ne faut pas exagérer",
-      "Ne vas pas trop loin",
-      "Ne pousse pas le bouchon trop loin",
-      "Il ne faut pas provoquer des problèmes inutiles",
-      "Reste dans les limites"
+      "Il ne faut pas surcharger le système",
+      "Évitez de créer des bugs inutiles",
+      "Ne déployez pas de fonctionnalités trop risquées",
+      "Il est préférable de ne pas provoquer d'erreurs fatales",
+      "Évite de faire planter le programme"
     ]
   },
   {
     "input": {
       "language": "italian",
+      "style": "computer science metaphor",
       "message": "non rompere le balle"
     },
     "output": [
-      "non essere fastidioso",
-      "non disturbare",
-      "non creare problemi",
-      "lascia stare",
-      "non scocciare"
+      "non sovraccaricare il sistema",
+      "non generare errori nel codice",
+      "non disturbare il processo",
+      "non bloccare il server",
+      "non interferire con l'esecuzione"
     ]
   }
 ]
