@@ -2,49 +2,53 @@
   {
     "input": {
       "language": "english",
+      "style": "sport commentator",
       "message": "fool"
     },
     "output": [
-      "silly person",
+      "clown",
       "jester",
-      "imbecile",
-      "joker",
-      "buffoon"
+      "buffoon",
+      "court jester",
+      "jesting individual"
     ]
   },
   {
     "input": {
       "language": "french",
+      "style": "respected intelectual",
       "message": "bourru"
     },
     "output": [
-      "rude",
-      "brusque",
-      "hargneux"
+      "acariâtre",
+      "brun",
+      "grognon"
     ]
   },
   {
     "input": {
       "language": "italian",
+      "style": "teenager fan of rap",
       "message": "pazzesco"
     },
     "output": [
       "incredibile",
-      "folle",
-      "mostruoso",
-      "fuori di testa",
-      "strabiliante"
+      "geniale",
+      "figo",
+      "spacca",
+      "mostruoso"
     ]
   },
   {
     "input": {
       "language": "english",
+      "style": "same",
       "message": "it is a tough call"
     },
     "output": [
       "it is a difficult decision",
-      "it is a challenging choice",
-      "it is a hard decision",
+      "it is a hard choice",
+      "it is a challenging decision",
       "it is a tricky decision",
       "it is a demanding choice"
     ]
@@ -52,26 +56,27 @@
   {
     "input": {
       "language": "french",
+      "style": "computer science metaphor",
       "message": "il ne faut pas pousser mémé dans les orties"
     },
     "output": [
-      "Il ne faut pas exagérer",
-      "Ne vas pas trop loin",
-      "Ne pousse pas le bouchon trop loin",
-      "Ne vas pas trop loin"
+      "Il ne faut pas forcer la machine",
+      "Ce n'est pas la peine d'overclocker",
+      "Ne pas surcharger le système"
     ]
   },
   {
     "input": {
       "language": "italian",
+      "style": "computer science metaphor",
       "message": "non rompere le balle"
     },
     "output": [
-      "non essere noioso",
-      "non essere fastidioso",
-      "non essere irritante",
-      "non essere seccante",
-      "non essere tediante"
+      "non disturbare il kernel",
+      "non crashare il sistema",
+      "non sovraccaricare la memoria",
+      "non creare un loop infinito",
+      "non causare un errore critico"
     ]
   }
 ]

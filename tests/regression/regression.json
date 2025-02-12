@@ -1,44 +1,50 @@
 [
-  {
-    "input": {
-      "language": "english",
-      "message": "fool"
+    {
+        "input": {
+            "language": "english",
+            "style": "sport commentator",
+            "message": "fool"
+        },
+        "output": null
     },
-    "output": null
-  },
-  {
-    "input": {
-      "language": "french",
-      "message": "bourru"
+    {
+        "input": {
+            "language": "french",
+            "style": "respected intelectual",
+            "message": "bourru"
+        },
+        "output": null
     },
-    "output": null
-  },
-  {
-    "input": {
-      "language": "italian",
-      "message": "pazzesco"
+    {
+        "input": {
+            "language": "italian",
+            "style": "teenager fan of rap",
+            "message": "pazzesco"
+        },
+        "output": null
     },
-    "output": null
-  },
-  {
-    "input": {
-      "language": "english",
-      "message": "it is a tough call"
+    {
+        "input": {
+            "language": "english",
+            "style": "same",
+            "message": "it is a tough call"
+        },
+        "output": null
     },
-    "output": null
-  },
-  {
-    "input": {
-      "language": "french",
-      "message": "il ne faut pas pousser mémé dans les orties"
+    {
+        "input": {
+            "language": "french",
+            "style": "computer science metaphor",
+            "message": "il ne faut pas pousser mémé dans les orties"
+        },
+        "output": null
     },
-    "output": null
-  },
-  {
-    "input": {
-      "language": "italian",
-      "message": "non rompere le balle"
-    },
-    "output": null
-  }
+    {
+        "input": {
+            "language": "italian",
+            "style": "computer science metaphor",
+            "message": "non rompere le balle"
+        },
+        "output": null
+    }
 ]
